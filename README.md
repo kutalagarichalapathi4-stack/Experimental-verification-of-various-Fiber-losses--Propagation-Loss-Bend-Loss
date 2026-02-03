@@ -96,15 +96,19 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 
-### Propagation Loss
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|----------------------|-----------------------|
-|              |                      |                       |
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5067d86f-fb6f-45da-928c-5f83a3c36952" />
 
-### Bending Loss
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|----------------------|-----------------------|
-|                  |                      |                       |
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c02b7cf0-88d7-4517-916e-e2bd5b4ffaf5" />
+Graph for 2.5GB low noise
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee8a921f-bf84-4916-9745-a9381f009807" />
+Graph for 2.5GB high noise
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97cbe31a-451d-4255-91fc-fbfb3006b282" />
+graph for low noise 10gb
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b815f56-e5ca-4b33-8478-be73270e276a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30adf093-fdaa-4316-a1cd-337d8cd2d63a" />
+
+
 
 ---
 
