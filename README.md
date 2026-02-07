@@ -1,4 +1,4 @@
-# Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss
+ Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss
 # Propagation and Bending Losses in Plastic Fiber
 
 ## AIM
@@ -96,7 +96,9 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 
+![WhatsApp Image 2026-02-07 at 2 02 13 PM](https://github.com/user-attachments/assets/b14cc12f-d2b0-46f2-b754-3416bee6fb61)
 
+![WhatsApp Image 2026-02-07 at 2 02 04 PM](https://github.com/user-attachments/assets/949ec95c-bf7d-456a-9464-932c893b45a7)
 
 ---
 
